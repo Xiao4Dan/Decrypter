@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Decrypter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=fName
+comment2.target=java.util.ArrayList\ ReadFile(java.lang.String)
+comment3.params=secret
+comment3.target=void\ WriteFile(java.util.ArrayList)
+comment4.params=pattern\ trans
+comment4.target=java.lang.String[][]\ Transpose(int[],\ java.lang.String)
+comment5.params=matrix
+comment5.target=java.lang.String\ arrayToString(java.lang.String[][])
+comment6.params=hash
+comment6.target=int[]\ transPattern(int)
+comment7.params=hash\ subs
+comment7.target=java.lang.String\ Substitute(int,\ java.lang.String)
+comment8.params=hash
+comment8.target=java.lang.String\ subPattern(int)
+numComments=9
